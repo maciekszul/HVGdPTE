@@ -2,9 +2,9 @@
 Directed Phase Transfer Entropy connectivity measure with Horizontal Visibility Graphs. Implementation for MNE Python
 
 ### To do:
-- toy dataset generation
-- surrogate data testing
-- rest
+- toy dataset generation (M)
+- surrogate data testing (M)
+- everything else
 
 ## Relevant papers
 Hillebrand et al.(2016) *Direction of information flow in large-scale resting-state networks is frequency-dependent.* http://www.pnas.org/content/113/14/3867
